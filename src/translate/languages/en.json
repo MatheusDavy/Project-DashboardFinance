@@ -1,0 +1,49 @@
+
+{
+    "translation": {
+        "hi": "Hola",
+        "Final target data": "Final target data",
+        "January": "January",
+
+        "Transactions": "Transactions",
+        "Goals": "Goals",
+        "Credit Cards": "Credit Cards",
+        "Wallet": "Wallet",
+        "Stock Market": "Stock Market",
+        "Dashboard": "Dashboard",
+        "Limit": "Limit",
+
+        "Name": "Name",
+        "Number Card": "Number Card",
+        "Expiration Date": "Expiration Date",
+        "Save": "Save",
+
+        "Invalid card name": "Invalid card name",
+        "Invalid card number": "Invalid card number",
+        "Número do cartão já cadastrado": "Card number already registered",
+        "Invalid card limit": "Invalid card limit",
+        "Invalid card validation": "Invalid card validation",
+
+        "New Card": "New Car",
+        "Date": "Date",
+        "Send": "Send",
+
+        "Invalid Name": "Invalid Name",
+        "Select a Icon": "Select a Icon",
+        "Invalid Value": "Invalid Value",
+        "Select a Color": "Select a Color",
+        "Final Value": "Final Value",
+        "Initial Value": "Initial Value",
+
+        "Value cannot be 0": "Value cannot be 0",
+        "Enter a description": "Enter a description",
+        "Select transaction type": "Select transaction type",
+
+        "INCOME": "INCOME",
+        "EXPENSE": "EXPENSE",
+
+        "Description": "Description",
+        "Color": "Color",
+        "Icon": "Icon"
+    }
+}
